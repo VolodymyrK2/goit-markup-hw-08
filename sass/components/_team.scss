@@ -4,8 +4,7 @@
 }
 
 .team__list {
-    // margin-bottom: calc(-1 * var(--card-gap));
-    @media screen and (min-width:768px) {
+     @media screen and (min-width:768px) {
         display: flex;
         flex-wrap: wrap;
         margin-top: calc(-1 * var(--card-gap));
